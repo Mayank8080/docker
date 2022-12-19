@@ -1,1 +1,4 @@
-
+FROM 
+MAINTAINER Mayank
+RUN apt-get update
+EXPOSE 8080
